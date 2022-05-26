@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rutvik Patel
 - 👀 I’m interested in Coding and learning new technologies
-- 🌱 I’m currently learning React Js from Online Tutorials (as I learn by doing) and free Code Camp.org
+- 🌱 I’m currently working as Junior Full Stack Developer
 - 💞️ I’m looking to working as Developer as its my dream.
 - 📫 How to reach me : patelrutvikdinesh@gmail.com
 
