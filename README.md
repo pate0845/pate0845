@@ -13,7 +13,7 @@
 ---
 
 ### 🚀 Tech Stack & Skills
-- **Languages:** Python, Java, SQL, Shell Scripting
+- **Languages:** Python, Java, SQL, Shell Scripting, JavaScript
 - **Systems:** Enterprise System Support, Linux/Windows Administration
 - **Tools:** Automation Frameworks, CI/CD Pipelines, Application Monitoring
 - **Domain:** System Analysis, Troubleshooting, & Performance Tuning
