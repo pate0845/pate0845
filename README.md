@@ -5,7 +5,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 👀 **Interested in:** Advanced Coding, Cloud Automation, and mastering emerging technologies.
+- 👀 **Interested in:**  Coding, Cloud Automation, and mastering emerging technologies.
 - 🌱 **Currently working as:** Systems Developer, focusing on enterprise system efficiency and support.
 - ⚙️ **Specializing in:** System Analysis, Automation Engineering, and Application Support.
 - ⏳ **Experience:** 3+ Years of experience supporting and optimizing enterprise-grade systems.
